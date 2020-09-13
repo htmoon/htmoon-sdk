@@ -1,17 +1,17 @@
 {
-  "name": "@uniswap/sdk",
+  "name": "@bscswap/sdk",
   "license": "MIT",
-  "version": "3.0.2",
-  "description": "🛠 An SDK for building applications on top of Uniswap.",
+  "version": "3.0.13",
+  "description": "🛠 An SDK for building applications on top of BSCswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "https://github.com/bscswap/bscswap-sdk.git",
   "keywords": [
-    "uniswap",
-    "ethereum"
+    "bscswap",
+    "binance"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@uniswap/v2-core": "^1.0.0",
+    "@bscswap/contracts": "1.0.1",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
