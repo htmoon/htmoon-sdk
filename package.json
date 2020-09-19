@@ -1,7 +1,7 @@
 {
   "name": "@bscswap/sdk",
   "license": "MIT",
-  "version": "3.0.14",
+  "version": "3.0.15",
   "description": "🛠 An SDK for building applications on top of BSCswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@bscswap/contracts": "1.0.1",
+    "@bscswap/contracts": "1.0.2",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",

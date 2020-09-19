@@ -813,10 +813,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bscswap/contracts@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@bscswap/contracts/-/contracts-1.0.1.tgz#396b65ff26af746f86e991ab0dce0b77724e5974"
-  integrity sha512-UIDqa9bTjM297ThqEAiKp5gvCC6HkdHoL0/JdE/t4wCZiJmWTyhul0FtRLGc28dQ51PcliZeiQQOqyGNgZ4Pnw==
+"@bscswap/contracts@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@bscswap/contracts/-/contracts-1.0.2.tgz#c6d639a43018bec808be02004c6a103b923fd604"
+  integrity sha512-/tJ/GviHfCqzGAkO2W2YkDkWNgcySueHfjlqhbXAA1EmOAhIqHr0IbT7PJpE2/dkegEnuv3moCCl2hndK8dHRA==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
