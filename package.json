@@ -1,7 +1,7 @@
 {
   "name": "@htmoon/sdk",
   "license": "MIT",
-  "version": "3.0.15",
+  "version": "3.0.16",
   "description": "🛠 An SDK for building applications on top of HTMoon.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
