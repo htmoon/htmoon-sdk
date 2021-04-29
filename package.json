@@ -1,17 +1,16 @@
 {
-  "name": "@bscswap/sdk",
+  "name": "@htmoon/sdk",
   "license": "MIT",
   "version": "3.0.15",
-  "description": "🛠 An SDK for building applications on top of BSCswap.",
+  "description": "🛠 An SDK for building applications on top of HTMoon.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/bscswap/bscswap-sdk.git",
+  "repository": "https://github.com/htmoon/htmoon-sdk.git",
   "keywords": [
-    "bscswap",
-    "binance"
+    "htmoon"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
