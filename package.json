@@ -1,7 +1,7 @@
 {
   "name": "@htmoon/sdk",
   "license": "MIT",
-  "version": "3.0.17",
+  "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of HTMoon.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -10,11 +10,13 @@
   ],
   "repository": "https://github.com/htmoon/htmoon-sdk.git",
   "keywords": [
-    "htmoon"
+    "htmoon",
+    "ethereum"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
     "lint": "tsdx lint src test",
+    "lint:fix": "tsdx lint src test --fix",
     "build": "tsdx build",
     "start": "tsdx watch",
     "test": "tsdx test",
@@ -22,7 +24,6 @@
   },
   "dependencies": {
     "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
-    "@bscswap/contracts": "1.0.2",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
