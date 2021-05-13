@@ -21,6 +21,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
+    "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
     "@bscswap/contracts": "1.0.2",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
